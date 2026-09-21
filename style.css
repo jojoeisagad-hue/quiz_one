@@ -1318,7 +1318,8 @@ body {
     background-color: oklch(96.9% .016 293.756);
     border-radius: 12px;
 }
-.info-card a {
+
+.info-card p.text-secondary a {
     color: oklch(54.1% .281 293.009);
     text-decoration: none;
 }
