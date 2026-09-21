@@ -1271,7 +1271,9 @@ body {
     background-color: #ffffff;
     border-radius: 12px;
 }
-
+.text-violet {
+    color: oklch(54.1% .281 293.009);
+}
 .text-purple {
     color: oklch(55.8% .288 302.321);
 }
@@ -1315,6 +1317,10 @@ body {
 .form-optin {
     background-color: oklch(96.9% .016 293.756);
     border-radius: 12px;
+}
+.info-card a {
+    color: oklch(54.1% .281 293.009);
+    text-decoration: none;
 }
 
 /*                              footer               */
